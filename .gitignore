@@ -44,7 +44,7 @@ Thumbs.db
 
 # Data files (optional - comment out if you want to track these)
 # outputs/
-# resumes/
+resumes/
 
 # Jupyter Notebook
 .ipynb_checkpoints
